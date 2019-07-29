@@ -17,6 +17,11 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
+    "todomvc-app-css": "^2.0.0",
+    "todomvc-common": "^1.0.0",
     "electron": "^5.0.8"
+  },
+  "dependencies": {
+    "angular": "^1.7.8"
   }
 }
